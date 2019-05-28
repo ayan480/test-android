@@ -8,7 +8,6 @@ git status
 git commit -m "first commit" text.txt
 git push -u origin master
 
-
 git mv old_filename new_filename
 git commit -m "Rename file"
 
