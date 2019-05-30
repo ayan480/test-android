@@ -1,7 +1,7 @@
-git config --global user.name "arnabmunshi"
-git config --global user.email arnab47stars@gmail.com
+git config --global user.name "ayan480"
+git config --global user.email ayan480@gmail.com
 
-git clone https://github.com/arnabmunshi/sample.git
+git clone https://github.com/ayan480/test-android.git
 
 git add text.txt
 git status
